@@ -7,5 +7,5 @@ print(r.json())
 
 df = pd.DataFrame(r.json()['WebCountyRecord'])
 df['outage_percentage'] = (df['OutageCount']/df['CustomerCount'])*100
-
+df.fillna(0, inplace=True)
 df.to_csv('data/latest.csv', index=False)
