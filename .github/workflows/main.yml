@@ -2,8 +2,8 @@ name: Scrape
 
 on:
   push:
-  #schedule:
-    #- cron: "*/7 * * * *"
+  schedule:
+    - cron: "*/45 * * * *"
   workflow_dispatch:
 
 jobs:
