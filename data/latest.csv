@@ -105,7 +105,7 @@ CountyId,UtilityId,CountyName,CountyState,CountyStatus,OutageCount,CustomerCount
 1429,0,Lynn,0,#004FA2,0,6724,0.0
 1430,0,Martin,0,#004FA2,0,8255,0.0
 1431,0,Matagorda,0,#004FA2,0,16901,0.0
-1432,0,Maverick,0,#004FA2,0,23596,0.0
+1432,0,Maverick,0,#04519E,57,23596,0.24156636718087812
 1433,0,Mcculloch,0,#004FA2,0,3441,0.0
 1434,0,Mclennan,0,#004FA2,0,128620,0.0
 1435,0,Mcmullen,0,#004FA2,0,2651,0.0
