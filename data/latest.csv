@@ -1,7 +1,7 @@
 CountyId,UtilityId,CountyName,CountyState,CountyStatus,OutageCount,CustomerCount,outage_percentage
 1326,0,Anderson,0,#004FA2,0,33183,0.0
 1327,0,Andrews,0,#004FA2,0,10989,0.0
-1328,0,Angelina,0,#004FA2,0,46086,0.0
+1328,0,Angelina,0,#004FA2,1,46086,0.002169856355509265
 1329,0,Aransas,0,#004FA2,1,21795,0.004588208304657031
 1330,0,Archer,0,#004FA2,0,5175,0.0
 1331,0,Atascosa,0,#004FA2,0,25916,0.0
@@ -59,7 +59,7 @@ CountyId,UtilityId,CountyName,CountyState,CountyStatus,OutageCount,CustomerCount
 1383,0,Freestone,0,#004FA2,0,15566,0.0
 1384,0,Frio,0,#004FA2,0,10197,0.0
 1385,0,Gaines,0,#004FA2,0,16855,0.0
-1386,0,Galveston,0,#004FA2,19,198854,0.009554748710108923
+1386,0,Galveston,0,#004FA2,18,198854,0.00905186719905056
 1387,0,Glasscock,0,#004FA2,0,4193,0.0
 1388,0,Goliad,0,#004FA2,0,4828,0.0
 1389,0,Gonzales,0,#004FA2,0,14720,0.0
